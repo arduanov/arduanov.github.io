@@ -1,5 +1,6 @@
 ---
 layout: post
+category: database
 ---
 
 PostgreSQL 9.4 improves a lot with the introduction of to_json, json_build_object, json_object and json_build_array, though it's verbose due to the need to name all the fields explicitly:
